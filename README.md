@@ -1,6 +1,18 @@
 ## Introduction
 
-The exercise of Learning OpenCV3 Computer Vision with Python
+The exercise of *Learning OpenCV 3 Computer Vision with Python, Second Edition*
+
+### Book introduction
+
+This book is written by Joe Minichino and Joseph Howse and published in 2018.4
+
+Copyright © 2015 Packt Publishing. First published in the English language under the title "Learning OpenCV 3 Computer Vision with Python, Second Edition"
+
+Chinese simplified language edition published by China Machine Press.
+
+Copyright © 2016 by China Machine Press.
+
+
 
 ## Contents
 
