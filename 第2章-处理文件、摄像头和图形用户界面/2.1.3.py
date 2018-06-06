@@ -30,7 +30,9 @@ import numpy as np
 # cv2.waitKey(0)
 
 # 图片属性
-img = cv2.imread('test.jpg')
-print(img.shape)
-print(img.size)
-print(img.dtype)
+# img = cv2.imread('test.jpg')
+# print(img.shape)
+# print(img.size)
+# print(img.dtype)
+
+
