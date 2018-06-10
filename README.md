@@ -17,4 +17,5 @@ Copyright © 2016 by China Machine Press.
 ## Contents
 
 - [Chapter 2 - Handling Files, Cameras, and Graphical User Interfaces](第2章-处理文件、摄像头和图形用户界面)
+- [Chapter 3 - Using OpenCV3 to Process Images](第3章-使用OpenCV3处理图像)
 
