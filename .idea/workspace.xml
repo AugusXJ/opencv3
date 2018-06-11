@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef8ca1e0-1418-4c9c-8f9a-2d96d062ac9d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/opencv3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/opencv3.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/2.1.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/2.1.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章-使用OpenCV3处理图像/3.2_傅里叶变换.py" beforeDir="false" afterPath="$PROJECT_DIR$/第3章-使用OpenCV3处理图像/3.2_傅里叶变换.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,34 +16,32 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/opencv$2_1_3.coverage" NAME="2.1.3 Coverage Results" MODIFIED="1528201997837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面" />
     <SUITE FILE_PATH="coverage/opencv3$2_1_4.coverage" NAME="2.1.4 Coverage Results" MODIFIED="1528289379814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面" />
-    <SUITE FILE_PATH="coverage/opencv3$3_2_.coverage" NAME="3.2_傅里叶变换 Coverage Results" MODIFIED="1528506727437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第3章-使用OpenCV3处理图像" />
+    <SUITE FILE_PATH="coverage/opencv3$3_2_.coverage" NAME="3.2_傅里叶变换 Coverage Results" MODIFIED="1528508520444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第3章-使用OpenCV3处理图像" />
     <SUITE FILE_PATH="coverage/opencv$tt.coverage" NAME="tt Coverage Results" MODIFIED="1528201297923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面" />
+    <SUITE FILE_PATH="coverage/opencv3$2_1_1.coverage" NAME="2.1.1 Coverage Results" MODIFIED="1528508216863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面" />
     <SUITE FILE_PATH="coverage/opencv$.coverage" NAME="灰度处理 Coverage Results" MODIFIED="1528200792961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面" />
     <SUITE FILE_PATH="coverage/opencv$test.coverage" NAME="test Coverage Results" MODIFIED="1528199723482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/opencv$2_1_3__1_.coverage" NAME="2.1.3 (1) Coverage Results" MODIFIED="1528203585791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2.1.3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/2.1.3.py">
+      <file leaf-file-name="3.2_傅里叶变换.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/第3章-使用OpenCV3处理图像/3.2_傅里叶变换.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+            <state relative-caret-position="384">
+              <caret line="24" column="62" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
               <folding>
-                <element signature="e#34#44#0" expanded="true" />
+                <element signature="e#88#98#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3.2_傅里叶变换.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/第3章-使用OpenCV3处理图像/3.2_傅里叶变换.py">
+      <file leaf-file-name="2.1.1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/2.1.1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-              <folding>
-                <element signature="e#74#84#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="112">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -68,10 +65,10 @@
         <option value="$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/灰度处理.py" />
         <option value="$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/tt.py" />
         <option value="$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/random_graph.py" />
-        <option value="$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/2.1.1.py" />
         <option value="$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/2.1.3.py" />
         <option value="$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/2.1.3.py" />
         <option value="$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/2.1.4.py" />
+        <option value="$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/2.1.1.py" />
         <option value="$PROJECT_DIR$/第3章-使用OpenCV3处理图像/3.2_傅里叶变换.py" />
       </list>
     </option>
@@ -96,7 +93,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,12 +103,18 @@
             <path>
               <item name="opencv3" type="b2602c69:ProjectViewProjectNode" />
               <item name="opencv3" type="462c0819:PsiDirectoryNode" />
+              <item name="第2章-处理文件、摄像头和图形用户界面" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opencv3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opencv3" type="462c0819:PsiDirectoryNode" />
               <item name="第3章-使用OpenCV3处理图像" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -121,12 +123,13 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\data\opencv3\第2章-处理文件、摄像头和图形用户界面" />
-      <recent name="G:\data\opencv" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\data\opencv\第2章-处理文件、摄像头和图形用户界面" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="G:\data\opencv3\第2章-处理文件、摄像头和图形用户界面" />
+      <recent name="G:\data\opencv" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -184,6 +187,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration name="2.1.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="opencv3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/2.1.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="2.1.3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="opencv3" />
@@ -280,25 +302,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="tt" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="opencv" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="G:\data\opencv\第2章-处理文件、摄像头和图形用户界面\2.1.2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
       <module name="opencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -351,19 +354,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python.tt" />
       <item itemvalue="Python.2.1.3" />
       <item itemvalue="Python.2.1.3 (1)" />
       <item itemvalue="Python.2.1.4" />
       <item itemvalue="Python.3.2_傅里叶变换" />
+      <item itemvalue="Python.2.1.1" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.3.2_傅里叶变换" />
+        <item itemvalue="Python.2.1.1" />
         <item itemvalue="Python.2.1.4" />
         <item itemvalue="Python.2.1.3 (1)" />
         <item itemvalue="Python.2.1.3" />
-        <item itemvalue="Python.tt" />
       </list>
     </recent_temporary>
   </component>
@@ -382,19 +385,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1853" height="1053" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32849163" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32849163" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2556724" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2584394" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3988827" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -420,24 +422,32 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/2.1.3.py">
+    <entry file="file://$PROJECT_DIR$/第3章-使用OpenCV3处理图像/3.2_傅里叶变换.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="336">
+          <caret line="24" column="62" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
           <folding>
-            <element signature="e#34#44#0" expanded="true" />
+            <element signature="e#88#98#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/2.1.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/2.1.3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#34#44#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="560">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/2.1.3.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/1.png" />
     <entry file="file://$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/RandomGray.png">
@@ -446,41 +456,49 @@
     <entry file="file://$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/RandomColor.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/test.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/2.1.2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
+        <state relative-caret-position="16">
           <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/test.jpg">
+    <entry file="file://$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/2.1.4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/test.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/2.1.1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        <state relative-caret-position="112">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/2.1.3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
+        <state relative-caret-position="512">
           <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-          <folding>
-            <element signature="e#34#44#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第2章-处理文件、摄像头和图形用户界面/2.1.4.py" />
     <entry file="file://$PROJECT_DIR$/第3章-使用OpenCV3处理图像/3.2_傅里叶变换.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        <state relative-caret-position="384">
+          <caret line="24" column="62" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
           <folding>
-            <element signature="e#74#84#0" expanded="true" />
+            <element signature="e#88#98#0" expanded="true" />
           </folding>
         </state>
       </provider>

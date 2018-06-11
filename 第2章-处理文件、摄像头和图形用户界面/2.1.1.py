@@ -4,4 +4,5 @@
 import cv2
 
 grayImage = cv2.imread('test.jpg', cv2.IMREAD_GRAYSCALE)
+cv2.imshow('win', grayImage)
 cv2.imwrite('test.png', grayImage)
