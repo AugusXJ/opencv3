@@ -2,7 +2,9 @@
 2.1.4 视频文件的读写
 """
 import cv2
-videoCapture = cv2.VideoCapture('test_mp4.mp4')
+
+root = 'G:/temp_data/test_mp4.mp4'
+videoCapture = cv2.VideoCapture(root)
 fps = videoCapture.get(cv2.CAP_PROP_FPS)
 size = (int(videoCapture.get(cv2.CAP_PROP_FRAME_WIDTH)),
             int(videoCapture.get(cv2.CAP_PROP_FRAME_HEIGHT)))
